@@ -140,10 +140,10 @@ mindmap
 <div align="center">
 
 ```ascii
-                            ╔═══════════════════════════════════════════╗
-                            ║  "The best way to predict the future is   ║
-                            ║           to create it." - AI Era         ║
-                            ╚═══════════════════════════════════════════╝
+                                            ╔═══════════════════════════════════════════╗
+                                            ║  "The best way to predict the future is   ║
+                                            ║           to create it." - AI Era         ║
+                                            ╚═══════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
