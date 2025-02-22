@@ -3,11 +3,11 @@
 <div align="center">
   
 ```ascii
-  ╔═══════════════════════════════════════╗
-  ║    Machine Learning & Data Science    ║
-  ║        Generative AI Enthusiast       ║
-  ║         Crafting AI Solutions         ║
-  ╚═══════════════════════════════════════╝
+                                            ╔═══════════════════════════════════════╗
+                                            ║    Machine Learning & Data Science    ║
+                                            ║        Generative AI Enthusiast       ║
+                                            ║         Crafting AI Solutions         ║
+                                            ╚═══════════════════════════════════════╝
 ```
 <br>
 
