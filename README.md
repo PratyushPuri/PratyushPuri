@@ -1,6 +1,6 @@
 
 <div style="text-align:center;">
-<center><img  src="988704.gif" width="450" height="300" ></center>
+<img  src="988704.gif" width="450" height="300" style="transform: scaleY(-1);">
 </div>
 <!--![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)-->
 
