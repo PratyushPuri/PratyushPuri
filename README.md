@@ -116,13 +116,13 @@ mindmap
 <div align="center">
 
 ```python
-              tech_stack = {
-                  "Languages": ["Python", "C++", "SQL"],
-                  "AI/ML": ["TensorFlow", "PyTorch", "Scikit-learn"],
-                  "Data": ["NumPy", "Pandas", "Matplotlib","Seaborn"],
-                  "GenAI": ["LangChain", "Hugging Face", "Transformers"],
-                  "Tools": ["Git", "Linux", "AWS","Tableau","PowerBI","Microsoft Excel","Microsoft Access"]
-              }
+tech_stack = {
+  "Languages": ["Python", "C++", "SQL"],
+  "AI/ML": ["TensorFlow", "PyTorch", "Scikit-learn"],
+  "Data": ["NumPy", "Pandas", "Matplotlib","Seaborn"],
+  "GenAI": ["LangChain", "Hugging Face", "Transformers"],
+  "Tools": ["Git", "Linux", "AWS","Tableau","PowerBI","Microsoft Excel","Microsoft Access"]
+}
 ```
 
 </div>
@@ -140,10 +140,10 @@ mindmap
 <div align="center">
 
 ```ascii
-                                            ╔═══════════════════════════════════════════╗
-                                            ║  "The best way to predict the future is   ║
-                                            ║           to create it." - AI Era         ║
-                                            ╚═══════════════════════════════════════════╝
+╔═══════════════════════════════════════════╗
+║  "The best way to predict the future is   ║
+║           to create it." - AI Era         ║
+╚═══════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
