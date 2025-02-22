@@ -24,18 +24,18 @@
   
 ### `print("Hello World! 👋")`
 ```python
-                    class DataEngineerEmthusiast:
-                      def __init__(self):
-                        self.name = "Pratyush Puri"
-                        self.role = "Gen-AI & Data Science Practitioner"
-                        self.language_spoken = ["Hindi", "English"]
-                        self.interests = ["AI", "ML", "Computer Vision", "NLP","Gen-AI","LLM"]
-                                                                    
-                      def say_hi(self):
-                        print("Thanks for visiting my GitHub! Let's build something amazing together!")
-                    
-                    me = DataEngineerEnthusiast()
-                    me.say_hi()
+                      class DataEngineerEmthusiast:
+                        def __init__(self):
+                          self.name = "Pratyush Puri"
+                          self.role = "Gen-AI & Data Science Practitioner"
+                          self.language_spoken = ["Hindi", "English"]
+                          self.interests = ["AI", "ML", "Computer Vision", "NLP","Gen-AI","LLM"]
+                                                                      
+                        def say_hi(self):
+                          print("Thanks for visiting my GitHub! Let's build something amazing together!")
+                      
+                      me = DataEngineerEnthusiast()
+                      me.say_hi()
 ```
 </div>
 
