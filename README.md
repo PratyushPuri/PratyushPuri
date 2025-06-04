@@ -47,7 +47,7 @@ me.say_hi()
 
 
 <br>
-<img align="center" alt="Coding" width="400" src="chart.svg">
+<img align="center" alt="Coding" width="1000" height="500" src="chart.svg">
 <br>
 
 ## 🎓 Learning Journey
