@@ -100,8 +100,8 @@ tech_stack = {
   "Languages": ["Python", "C++", "SQL"],
   "AI/ML": ["TensorFlow", "PyTorch", "Scikit-learn"],
   "Data": ["NumPy", "Pandas", "Matplotlib","Seaborn"],
-  "GenAI": ["LangChain", "Hugging Face", "Transformers"],
-  "Tools": ["Git", "Linux", "AWS","Tableau","PowerBI","Microsoft Excel","Microsoft Access"]
+  "GenAI": ["Ollama", "Hugging Face", "Transformers","Agemtic AI"],
+  "Tools": ["Git", "Linux", "AWS","Tableau","PowerBI","Microsoft Excel"]
 }
 ```
 
