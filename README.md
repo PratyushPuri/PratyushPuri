@@ -142,6 +142,9 @@ tech_stack = {
 </div>
 
 <div align="center">
+![BMC](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
+  
 <img  src="loading.gif" width="450" height="300" style="transform: scaleY(-1);">
 </div>
 
