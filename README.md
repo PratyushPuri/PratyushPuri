@@ -140,11 +140,15 @@ tech_stack = {
 - Neural Network Architectures
 
 </div>
-
+<br><br>
 <div align="center">
-![BMC](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
-  
-<img  src="loading.gif" width="450" height="300" style="transform: scaleY(-1);">
+  <img align="center" alt="Coding" width="300" height="300" src="bmc_qr.png">
 </div>
+<br>
+<div align="center">
+  <img align="center" alt="Coding" width="150" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEzdGYzbnpqemlxMzF6MjNybWp1NTJ5YnU1MmViODBhYzlyNnF5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hXMGQqJFlIQMOjpsKC/giphy.gif">
+</div>
+<!--<div align="center"> 
+<img  src="loading.gif" width="450" height="300" style="transform: scaleY(-1);">
+</div>-->
 
