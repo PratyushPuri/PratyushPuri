@@ -1,7 +1,7 @@
 name: Saanp
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
@@ -21,6 +21,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: List dist contents
+        run: ls -l dist || echo "dist not found"
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
