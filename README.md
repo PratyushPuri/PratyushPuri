@@ -4,6 +4,13 @@
 <img  src="scifibomb.gif" width="650" height="400">
 </div>-->
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<br>
+
+---
+
+<br>
+
+
 
 <div align="center">
   
@@ -43,6 +50,13 @@ me = DataEngineerEnthusiast()
 me.say_hi()
 ```
 </div>
+<br>
+
+---
+
+<br>
+
+
 
 ## 🤖 AI & ML Arsenal
 
@@ -50,6 +64,13 @@ me.say_hi()
 <br>
 <img align="center" alt="Coding" width="1000" height="500" src="chart.svg">
 <br>
+
+<br>
+
+---
+
+<br>
+
 
 ## 🎓 Learning Journey
 
@@ -64,6 +85,13 @@ me.say_hi()
 
 </div>
 
+<br>
+
+---
+
+<br>
+
+
 
 ## My Contributions
 
@@ -72,6 +100,13 @@ me.say_hi()
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake.svg" />
 </picture>
  <br>
+
+
+<br>
+
+---
+
+<br>
 
 
 
@@ -102,6 +137,13 @@ me.say_hi()
                                                     └────────────────────┘
 
 ```
+<br>
+
+---
+
+<br>
+
+
 ## 🛠 Tech Stack Evolution
 
 <div align="center">
@@ -118,17 +160,32 @@ tech_stack = {
 
 </div>
 
-## 📈 Growth Metrics
+<br>
 
-<div align="center">
+---
+
+<br>
+
+## 📈 Languages and Softwares
+
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratyushpuri&show_icons=true&theme=radical" />
-</div> <br>
+</div> <br>-->
 <div align="center">
   <center></center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushpuri&show_icons=true&locale=en&layout=compact&theme=radical" alt="pratyushpuri" /></center>
 </div>
 <br>
 
 <div align="center">
+
+
+<br>
+
+---
+
+<br>
+
+
 
 ```ascii
 ╔═══════════════════════════════════════════╗
