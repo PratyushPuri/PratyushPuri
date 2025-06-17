@@ -1,3 +1,4 @@
+
 <!--
 <div align="center">
 <img  src="scifibomb.gif" width="650" height="400">
@@ -62,6 +63,16 @@ me.say_hi()
 | Data Engineering | LinkedIn | Data Science |
 
 </div>
+
+
+## My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake.svg" />
+</picture>
+ <br>
+
 
 
 <!--- 🌱 I’m currently learning **LLM, Generative AI, Computer Vision**
