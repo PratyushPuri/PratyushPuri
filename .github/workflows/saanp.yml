@@ -10,22 +10,25 @@ permissions:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      - uses: Platane/snk@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: PratyushPuri
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: List dist contents
+      - name: List dist contents (Debug)
         run: ls -l dist || echo "dist not found"
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
