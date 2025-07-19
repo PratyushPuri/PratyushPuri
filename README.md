@@ -128,17 +128,17 @@ me.say_hi()
                                                     │ Android Dev           │
                                                     │ CodeClause            │
                                                     └───────────────────────┘
-                                                            ↓
+                                                                ↓
                                                     ┌───────────────────────┐
                                                     │ ML Intern             │
                                                     │ IIIT Allahabad        │
                                                     └───────────────────────┘
-                                                            ↓
+                                                                ↓
                                                     ┌───────────────────────┐
                                                     │ Data Science          │
                                                     │ Oasis Infobyte        │
                                                     └───────────────────────┘
-                                                            ↓
+                                                                ↓
                                                     ┌───────────────────────┐
                                                     │ Data Analyst Trainee  │
                                                     │ Jobaaj                │
