@@ -6,6 +6,8 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <br>
 
+
+
 ---
 
 <br>
@@ -35,6 +37,11 @@
 <div align="center">
   
 ### `print("Hello World! 👋")`
+<br><br>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PratyushPuri&data=followers,repositories,stars,commits&theme=darkmode)](https://www.pratyushpuri.space)
+<br><br>
+
 ```python
 class DataEngineerEmthusiast:
   def __init__(self):
@@ -74,7 +81,7 @@ me.say_hi()
 
 ## 🎓 Learning Journey
 
-<div align="center">
+
 
 | Certification | Issuer | Focus Area |
 |--------------|---------|------------|
@@ -91,17 +98,13 @@ me.say_hi()
 
 <br>
 
+## 🏆 Trophies
 
-
-## My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake-dark.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake.svg" />
-</picture>
- <br>
-
-
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=PratyushPuri&theme=dracula)](https://github.com/PratyushPuri)
+</div>
+<br>
 <br>
 
 ---
@@ -166,15 +169,37 @@ tech_stack = {
 
 <br>
 
-## 📈 Languages and Softwares
-
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyushpuri&show_icons=true&theme=radical" />
-</div> <br>-->
+## My Contributions
 <div align="center">
-  <center></center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushpuri&show_icons=true&locale=en&layout=compact&theme=radical" alt="pratyushpuri" /></center>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake.svg" />
+</picture>
+ <br><br><br><br>
+<a href="https://github.com/PratyushPuri">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=PratyushPuri&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+</a> 
 </div>
+<br><br>
+  
+ <p align="center">
+   <a href="https://github.com/PratyushPuri"> 
+     <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushPuri&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
+<br><br>
 <br>
+
+<!--## 📈 Languages and Softwares-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratyushpuri&show_icons=true&theme=radical" />
+</div> <br>
+<!--<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushpuri&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  </div>
+</div>-->
 
 <div align="center">
 
