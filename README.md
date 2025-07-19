@@ -1,13 +1,9 @@
-
 <!--
 <div align="center">
 <img  src="scifibomb.gif" width="650" height="400">
 </div>-->
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <br>
-
-
-
 ---
 
 <br>
@@ -181,9 +177,9 @@ tech_stack = {
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PratyushPuri/PratyushPuri/output/github-snake.svg" />
 </picture>
  <br><br><br><br>
-<a href="https://github.com/PratyushPuri">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=PratyushPuri&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-</a> 
+  
+[![Praytush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PratyushPuri&bg_color=0d1117&color=708090&line=708090&point=ffffff&area=true&hide_border=true)](https://www.pratyushpuri.space)
+
 </div>
 <br><br>
   
@@ -193,6 +189,11 @@ tech_stack = {
    </a>  
  </p>
 <br><br>
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratyushPuri&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratyushPuri&theme=github_dark)
+</div>
 <br>
 
 <!--## 📈 Languages and Softwares-->
