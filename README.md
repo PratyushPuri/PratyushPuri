@@ -94,6 +94,7 @@ me.say_hi()
 
 <br>
 
+<!--
 ## 🏆 Trophies
 
 <div align="center">
@@ -106,7 +107,7 @@ me.say_hi()
 ---
 
 <br>
-
+-->
 
 
 <!--- 🌱 I’m currently learning **LLM, Generative AI, Computer Vision**
