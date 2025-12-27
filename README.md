@@ -199,9 +199,7 @@ tech_stack = {
 
 <!--## 📈 Languages and Softwares-->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyushpuri&show_icons=true&theme=radical" />
-</div> <br>
+
 <!--<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
   <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyushpuri&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
